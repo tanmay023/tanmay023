@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there 👋 I’m Tanmay
 
-<!--
-**tanmay023/tanmay023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Computer Engineering Student | Developer | Curious Technologist
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+Web development projects using React, C++, Java, and DSA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+Data Science & Machine Learning, along with sharpening my core Java and DSA skills.
+
+👯 I’m looking to collaborate on:
+Web development projects, Java-based systems, beginner-friendly ML projects, and hackathon ideas that actually solve problems.
+
+🤔 I’m looking for help with:
+Advanced Machine Learning concepts, scalable backend design, and turning ideas into production-ready apps.
+
+💬 Ask me about:
+Java, Web Development, React, Databases, Git & GitHub, or how to survive engineering exams with style 😄
+
+📫 How to reach me:
+👉 LinkedIn: https://www.linkedin.com/in/tanmay-shambharkar-628076204/
+
+👉 GitHub: https://github.com/tanmay023
+
+😄 Pronouns:
+He / Him
