@@ -1,6 +1,6 @@
 Hi there 👋 I’m Tanmay
 
-🚀 Computer Engineering Student | Developer | Curious Technologist
+🚀 Engineering Student | Developer | Curious Technologist
 
 🔭 I’m currently working on:
 Web development projects using React, C++, Java, and DSA.
